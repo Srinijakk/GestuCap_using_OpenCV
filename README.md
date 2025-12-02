@@ -31,7 +31,11 @@
   ➤ [Download Tesseract](https://github.com/tesseract-ocr/tesseract)  
   ➤ Add it to your system `PATH` or set the path in the code
 
+### REAL TIME WORKING CODE - (https://github.com/Srinijakk/GestuCap_using_OpenCV)
+
 ### 📦 Install Required Python Libraries
 
 ```bash
 pip install opencv-python mediapipe pyautogui pytesseract pillow pyperclip
+
+
